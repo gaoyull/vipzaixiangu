@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gaoyull.github.io/vipzaixiangu/sitemap.xml
